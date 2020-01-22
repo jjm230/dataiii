@@ -4,7 +4,7 @@ author: "jjm230"
 date: "22/01/2020"
 output: github_document
 ---
-# Hello World
+## Hello World
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 x <- rnorm(100, 0, 1)
